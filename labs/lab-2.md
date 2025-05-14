@@ -11,10 +11,10 @@ Please let me know how you plan to address this immediately.
 
 Sincerely,
 
-Melissa Hart
-Operations Manager
-Northwest Logistics
-melissa.hart@nwlogistics.com
+Melissa Hart 
+Operations Manager 
+Northwest Logistics 
+melissa.hart@nwlogistics.com 
 
 
 ## Tasks:
