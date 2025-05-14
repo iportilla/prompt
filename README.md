@@ -1,4 +1,4 @@
-Prompt Engineering # About Me
+# About Me
 
 Thank you for taking interest in my work.
 
