@@ -22,7 +22,7 @@ melissa.hart@nwlogistics.com
 
 ## Tasks:
 
-Step 1: Summarize the concern
-Step 2: Draft a professional yet firm response
-Step 3: Add a closing paragraph to rebuild trust
-Reflection step: Check for tone, alignment, and clarity
+- Step 1: Summarize the concern
+- Step 2: Draft a professional yet firm response
+- Step 3: Add a closing paragraph to rebuild trust
+- Reflection step: Check for tone, alignment, and clarity
