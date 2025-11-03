@@ -1,4 +1,9 @@
-Summarize this email as before:
+Summarize the Email
+
+Write a 2–3 sentence summary of the upcoming APPM Talks.
+
+-----------------------------------------------------------
+
 
 
 Department of Applied Mathematics
